@@ -1,0 +1,87 @@
+{
+"status": "ok",
+"totalResults": 37,
+"articles": [
+{
+"source": {
+"id": null,
+"name": "CNBC"
+},
+"author": "Lee Ying Shan",
+"title": "Asia-Pacific shares mostly in the green as U.S. inflation data remains firmly in spotlight - CNBC",
+"description": "Asia-Pacific shares trade mixed as investors await the U.S. consumer price index report.",
+"url": "https://www.cnbc.com/2023/01/12/asia-pacific-cpi-inflation-indexes.html",
+"urlToImage": "https://image.cnbcfm.com/api/v1/image/107177543-1673480128200-gettyimages-1383294273-vcg111372468131.jpeg?v=1673481148&w=1920&h=1080",
+"publishedAt": "2023-01-12T08:12:00Z",
+"content": "Asia-Pacific shares were mostly higher as investors look ahead to the U.S. consumer price index report Thursday. Economists expect inflation to have cooled in December, which could signal to the Fede… [+678 chars]"
+},
+
+{
+"source": {
+"id": null,
+"name": "BBC News"
+},
+"author": "https://www.facebook.com/bbcnews",
+"title": "FTX: Collapsed crypto giant recovers over $5bn of assets - BBC",
+"description": "The firm's former chief executive Sam Bankman-Fried is accused of orchestrating an \"epic\" fraud.",
+"url": "https://www.bbc.com/news/business-64245044",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1E7F/production/_128270870_gettyimages-1245977780.jpg",
+"publishedAt": "2023-01-12T06:25:45Z",
+"content": "Collapsed cryptocurrency exchange FTX has located more than $5bn (£4.1bn) of assets, an attorney for the firm says.\r\nHowever, a US bankruptcy court was told on Wednesday that the extent of losses to … [+2357 chars]"
+},
+{
+"source": {
+"id": "independent",
+"name": "Independent"
+},
+"author": "Helen Coffey",
+"title": "Flights grounded – latest: Corrupted file blamed for 10,000 US plane delays - The Independent",
+"description": "Flights beginning to resume following widespread disruption",
+"url": "https://www.independent.co.uk/travel/news-and-advice/all-us-flights-grounded-faa-computer-outage-live-b2260683.html",
+"urlToImage": "https://static.independent.co.uk/2023/01/11/16/newFile-1.jpg?quality=75&width=1200&auto=webp",
+"publishedAt": "2023-01-12T05:41:03Z",
+"content": "Sign up to Simon Calders free travel email for weekly expert advice and money-saving discounts\r\nGet Simon Calders Travel email\r\nThe Federal Aviation Administration (FAA) said a corrupted database fil… [+6454 chars]"
+},
+
+{
+"source": {
+"id": null,
+"name": "BBC News"
+},
+"author": "https://www.facebook.com/bbcnews",
+"title": "Jeff Beck: British guitar legend dies aged 78 - BBC",
+"description": "One of rock's most influential guitarists, he was inducted to the Rock and Roll Hall of Fame twice.",
+"url": "https://www.bbc.com/news/entertainment-arts-64228780",
+"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17F9F/production/_128270289_gettyimages-1432230036.jpg",
+"publishedAt": "2023-01-12T04:57:09Z",
+"content": "Jeff Beck, one of the most influential rock guitarists of all time, has died at the age of 78.\r\nThe British musician rose to fame as part of the Yardbirds, where he replaced Eric Clapton, before form… [+8064 chars]"
+},
+{
+"source": {
+"id": "cnn",
+"name": "CNN"
+},
+"author": "Sandee LaMotte",
+"title": "Long Covid resolves within year for many with mild Covid, study says - CNN",
+"description": "The majority of long Covid symptoms that follow mild infections are resolved within a year, a new study found. But experts say that doesn't match their clinical experience.",
+"url": "https://www.cnn.com/2023/01/11/health/long-covid-symptoms-study-wellness/index.html",
+"urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230111122043-long-covid-symptoms-wellness-stock.jpg?c=16x9&q=w_800,c_fill",
+"publishedAt": "2023-01-12T04:42:00Z",
+"content": "The majority of long Covid symptoms resolve within the first year after infection for people with mild cases of Covid-19, according to a large study conducted in Israel. \r\nMild disease does not lead … [+7156 chars]"
+},
+{
+"source": {
+"id": "cnn",
+"name": "CNN"
+},
+"author": "Gregory Krieg, Shania Shelton",
+"title": "Nassau County GOP calls for Santos to resign - CNN",
+"description": "Leaders of the Nassau County Republican Party on Wednesday called for Rep. George Santos, elected to represent New York's 3rd Congressional District in November, to resign from office over his lies to voters and fabrications about his personal life.",
+"url": "https://www.cnn.com/2023/01/11/politics/george-santos-nassau-county-resign/index.html",
+"urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230111104941-01-george-santos-0110.jpg?c=16x9&q=w_800,c_fill",
+"publishedAt": "2023-01-12T03:54:00Z",
+"content": "Leaders of the Nassau County Republican Party on Wednesday called for Rep. George Santos, elected to represent New Yorks 3rd Congressional District in November, to resign from office over his lies to… [+6102 chars]"
+}
+
+]
+}
