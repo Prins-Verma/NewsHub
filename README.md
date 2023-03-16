@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+#Introduction:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  NewsHub is a News Portal Website, where users can read real-time trending news from India across various categories such as Business, Entertainment, Health, Science, Sports and Technology.
+  
+Following Tech Stack has been used - 
+  Javascript, HTML5, CSS3, React.js, Bootstrap5
+  
+#Description:
 
-## Available Scripts
+NewsHub project is a digital platform that delivers daily news updates from various sources in real-time. The web app provides a modern and user-friendly design to improve the user experience. The project aims to keep the user informed and engaged by providing an interactive and personalized experience. 
+The objective of NewsHub is to create a reliable and accurate source of news content for users, provide an easy-to-use platform and to deliver content in real-time and keep users up-to-date with the latest news.
+NewsHub have the features of Real-time news updation, categorized news articles and most importantly, it is free and does not required any subcription and user account to access NewsHub.
+It is a static and single page web app. Everytime total 9 news are shown on the single page and they have "Read more" button which will direct you to the News source. User can move from one page to another through "Next" and "Previous" buttons and he/she can also switch between different categories anytime.
+For Real-time News, an API has be used from https://newsapi.org/ website. Everytime when web app starts or some operation performed on it, the API will be called.
+CSS and Bootstrap has been used for designing of the NewsHub.
 
-In the project directory, you can run:
+#Snapshots based on categories
+1. Home:
 
-### `npm start`
+  ![Home](https://user-images.githubusercontent.com/89084508/225570645-c69794cc-ea1f-4384-8acb-8d9599a2143d.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+2. Business:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+  ![Business](https://user-images.githubusercontent.com/89084508/225570835-79551c86-7f77-4627-93fd-dd125b080311.png)
 
-### `npm test`
+3. Entertainment:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+    ![Entertainment](https://user-images.githubusercontent.com/89084508/225571306-4907f3eb-6f73-4c15-9c65-d3f543a6f9c5.png)
 
-### `npm run build`
+4. Health:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+    ![Health](https://user-images.githubusercontent.com/89084508/225571460-f541d322-f628-4e10-9e02-cd0ff2dfa87e.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+5. Science:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+    ![Science](https://user-images.githubusercontent.com/89084508/225572937-379ea07d-316d-42be-8bde-70b5ba6c6435.png)
 
-### `npm run eject`
+6. Sports:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+    ![Sports](https://user-images.githubusercontent.com/89084508/225573016-096a95e0-3cd1-422f-be9a-182a0f1b845c.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+7. Technology:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+     ![Technology](https://user-images.githubusercontent.com/89084508/225573047-33c9758b-c0f6-4aed-aca3-3bbb3171eef0.png)
